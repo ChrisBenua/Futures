@@ -1,3 +1,3 @@
 # Futures
 
-A description of this package.
+Simple Promise and Futures API
